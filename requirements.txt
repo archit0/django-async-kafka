@@ -1,0 +1,50 @@
+# Django Requirements
+Django==4.1
+django-environ==0.8.1
+djangorestframework==3.13.1
+
+
+# Django Encryped Field
+django-fernet-fields==0.6
+
+# Django Revision
+django-reversion==5.0.0
+
+# Swagger
+drf-yasg==1.20.0
+
+# Postgres Driver
+psycopg2==2.8.6
+
+# Kafka
+kafka-python==2.0.2
+
+# async http requests package
+aiohttp==3.8.1
+aiokafka==0.7.2
+
+# cron string processing package
+croniter==1.3.5
+
+#sentry
+sentry-sdk==1.12.1
+
+
+# UWSGi
+uwsgi==2.0.19.1
+
+# For djagno admin
+django-admin-list-filter-dropdown==1.0.3
+
+# Async caching
+aiocache==0.11.1
+
+# Django Constance
+django-constance[database]==2.9.1
+
+# gunicorn
+gunicorn==20.1.0
+
+# Stores django static in S3
+django-storages==1.13.1
+boto3==1.24.84

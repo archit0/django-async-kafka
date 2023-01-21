@@ -1,0 +1,19 @@
+env.example
+Dockerfile
+docker-compose.yml
+requirements.txt*.pyc
+.idea/
+env/
+env3/
+venv/
+venv3/
+db.sqlite3
+.env
+
+*.log
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
